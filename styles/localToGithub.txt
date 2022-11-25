@@ -1,0 +1,13 @@
+precess:
+ 1: created next js app using npx create-next-app@latest
+ 2: created one repo in github, and copied the path i.e. https://github.com/kln-hub-21/git-nextjs-app.git
+ 3: opened my local project added git i.e. git in it
+ 4: checked status (git status), so i can see the next js project showing not updated to git
+ 5: then i added it staging i.e. git add .
+ 6: then again checked status (now i can see the project added to staging ready to be comitted)
+ 7: then i comitted preoject i.e. git commit -m "1st commit"
+ 8: then it has asked my mail id and name i.e. 1: git config user.email "example@gmail.com" 2: git config user.name "nani"
+ 9: then  again did commit i.e. git commit -m "1st commit"
+ 10: then again i checked status (every is updated),
+ 11: then added remote origin i.e. git remote add origin https://github.com/kln-hub-21/git-nextjs-app.git
+ 12: then i pushed the code to the remote origin i.e. git push -u origin master
